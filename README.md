@@ -1,16 +1,16 @@
 # GENERIC-TURBOPUMPS
-turbopump-research/
+turbopump-research
 │
-├── docs/
-│   ├── literature/          # Literature reviews and summaries
-│   ├── case-studies/        # Analysis of SSME, LE-7, RL10 designs
-│   └── regulations/         # NASA, ESA, and industry standards
+├── docs
+│   ├── literature        # Literature reviews and summaries
+│   ├── case-studies       # Analysis of SSME, LE-7, RL10 designs
+│   └── regulations        # NASA, ESA, and industry standards
 │
-├── research/
-│   ├── manufacturing/       # AM vs traditional manufacturing analysis
-│   ├── performance/         # Efficiency and cavitation studies
-│   ├── materials/           # Material selection guides
-│   └── tribology/           # Wear, friction, and bearing analysis
+├── research
+│   ├── manufacturing      # AM vs traditional manufacturing analysis
+│   ├── performance        # Efficiency and cavitation studies
+│   ├── materials          # Material selection guides
+│   └── tribology           # Wear, friction, and bearing analysis
 │
 ├── data/
 │   ├── performance-metrics.csv
